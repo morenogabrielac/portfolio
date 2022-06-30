@@ -10,7 +10,10 @@ function About(){
             <p>Creando la pagina web para poner mis proyectos</p>
         </div>
         <div className='about-img'>
-            <img src={imagen} alt=''/>
+            <img className='me' src={imagen} alt=''/> 
+            <div className='avatar'></div>            
+
+
         </div>
     </div>
   )

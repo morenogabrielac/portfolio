@@ -15,15 +15,7 @@ const Footer = () => {
       <div className="footer-sns">
         <div className="design-by">Design By JGM</div>
         <div className="sns-links">
-          <a href="https://linkedin.com" target="_blank" rel="noreferrer">
-            <i className="fab fa-linkedin linkedin"></i>
-          </a>
-          <a href="https://twitter.com" target="_blank" rel="noreferrer">
-            <i className="fab fa-twitter twitter"></i>
-          </a>
-          <a href="https://facebook.com" target="_blank" rel="noreferrer">
-            <i className="fab fa-facebook facebook"></i>
-          </a>
+          <p>aca van los iconos asigandos con un link</p>
         </div>
       </div>
     </footer>
