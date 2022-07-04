@@ -2,7 +2,7 @@
 
 .about-container{
     display: flex;
-    background-color: white;
+    background: linear-gradient(0deg,#ADA996,#F2F2F2, #DBDBDB,#EAEAEA );
     color: black;
     height: 70vh;
     padding: 100px 0 100px 0;
@@ -20,6 +20,7 @@
 .about-desc > h3 {
     margin-bottom: 30px;
     font-size: 28px;
+    text-align: center;
 
 }
 
